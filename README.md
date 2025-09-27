@@ -1,2 +1,21 @@
-# PowerBI_QSR_Analysis
-Power BI dashboard analyzing 100K+ Quick-Service Restaurant order &amp; financial records. Provides insights on customer behavior, revenue impact, and partner strategy for improved efficiency.
+# Strategic Analysis of Quick-Service Restaurant Partnership
+
+## 📌 Project Overview
+This project evaluates **100K+ Quick-Service Restaurant (QSR) order and financial records** to uncover customer behavior patterns, revenue impact, and partner performance.  
+The analysis was designed to support **data-driven strategic decisions** and improve operational efficiency.  
+
+## 🛠️ Tools & Technologies
+- **Power BI** → Interactive dashboards & KPI visualizations  
+- **Excel** → Data cleaning & preprocessing  
+
+## 🔑 Key Features
+- Revenue and order trend insights by time and customer groups  
+- Partner-level performance metrics for strategic evaluation  
+- Interactive dashboard with filters for dynamic exploration  
+
+## 📊 Dashboard Highlights
+The Power BI dashboard provides:  
+- KPIs on order volume, revenue, and profitability  
+- Trend analysis across different customer cohorts  
+- Insights to guide **partnership strategy** and **efficiency improvements**  
+
